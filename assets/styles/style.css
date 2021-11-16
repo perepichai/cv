@@ -1,0 +1,34 @@
+p, li {
+    color: #505050;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 32px;
+}
+main, footer {
+    margin: 0 auto;
+    width: 50vw;
+    padding: 32px;
+    background-color:#f0f7fb;
+}
+
+main title {
+    text-align: center;
+}
+main .photo {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+footer {
+    width: 50vw;
+    height: 46px;
+    border-top: solid 2px #d8d8d8;
+}
+
+footer div.col {
+    float: left;
+    width: 32%;
+    text-align:center;
+    line-height: 46px;
+}
